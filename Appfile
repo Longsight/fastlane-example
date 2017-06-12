@@ -1,0 +1,3 @@
+app_identifier "com.organisation.app" # The bundle identifier of your app
+
+team_id "ABCDEF123"  # Developer Portal Team ID
